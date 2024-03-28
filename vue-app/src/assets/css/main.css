@@ -1,0 +1,5 @@
+@import './fonts.css';
+
+body {
+    font-family: 'Noto Sans TC Medium','Roboto Medium', sans-serif;
+}
